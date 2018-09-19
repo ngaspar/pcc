@@ -1,6 +1,6 @@
 # PCC - .NET Pixel Color Capture (for Windows desktop)
 
-A 12-year-old project resurrected from the times of .NET 2.0 - it's a simple pixel color capture application for Windows, able to snag the color of any pixel of any application on the desktop.
+An _old_ project resurrected from the times of .NET 2.0 (2006!) - it's a simple color capture application for Windows, able to snag the color of any pixel of any application on the desktop.
 
 Requires: **.NET 2.0 Runtime Redistributable**  
 Modern versions of Windows should include .NET runtimes at least up to 4.5, but in case it's needed it can be downloaded directly from Microsoft:  
